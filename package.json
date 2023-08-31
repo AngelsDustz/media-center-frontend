@@ -1,0 +1,13 @@
+{
+  "name": "media-center-frontend",
+  "version": "1.0.0",
+  "description": "Front-end for Media Center",
+  "main": "index.js",
+  "repository": "git@github.com:AngelsDustz/media-center-frontend.git",
+  "author": "Berwout Kruit <tehber@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "purecss": "^3.0.0",
+    "vanjs-core": "^1.1.3"
+  }
+}
